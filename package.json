@@ -1,6 +1,6 @@
 {
   "name": "cli-faizan-atm-machine",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple Command line ATM Machine",
   "main": "index.js",
   "type": "module",
